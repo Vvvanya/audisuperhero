@@ -1,0 +1,263 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  padding: 15px 0px 15px 0px;
+}
+.image {
+  width: 200px;
+  height: 150px;
+}
+.butt {
+  width: 362px;
+  padding: 13px;
+  border-radius: 15px;
+  margin-left: 50px;
+  background-color: gray;
+  text-shadow: 5px 5px 5px black;
+}
+.aaa {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+.li1 {
+  margin-right: 10px;
+  font-size: 20px;
+}
+.audilogo {
+  width: 75px;
+  height: 44px;
+  margin-right: 30px;
+  color: white;
+}
+.ul1 {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  color: black;
+}
+body {
+  margin: 0px;
+}
+.butt2 {
+  margin-right: 60px;
+}
+.container2 {
+  display: flex;
+  align-items: center;
+  margin: 0px 0px 0px 60px;
+}
+.container3 {
+}
+
+.q5 {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+.container4 {
+  background-color: bisque;
+  border-radius: 60px;
+  margin: 0px 30px 0px 30px;
+}
+.container5 {
+  display: flex;
+}
+.p1 {
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+.audi8 {
+  border-radius: 60px;
+}
+.container4-1 {
+  background-color: burlywood;
+  border-radius: 60px;
+  margin: 30px 30px 0px 30px;
+}
+
+.contai {
+  position: absolute;
+  z-index: 1;
+  color: white;
+}
+.title {
+  background-color: gray;
+  padding: 30px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  margin-left: 50px;
+  text-shadow: 5px 5px 5px black;
+  border: 2px solid black;
+}
+.h2 {
+  padding: 50px 0px 50px 500px;
+  font-size: 30px;
+  background-color: gray;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.cardimg {
+  width: 480px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.container6 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: bisque;
+  border-radius: 20px;
+}
+.carda {
+  text-decoration: none;
+  color: black;
+  padding-right: 15px;
+}
+.cardext {
+  padding: 0px 0px 0px 15px;
+  margin-bottom: 0px;
+}
+.linkcard {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h4 {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px 20px 0px;
+  font-size: 30px;
+  background-color: gray;
+  color: rgb(255, 255, 255);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.butt3 {
+  margin-top: 650px;
+  position: absolute;
+  margin-left: 60px;
+  padding: 20px;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  width: 200px;
+}
+.abutt {
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+  font-size: 20px;
+}
+.bb {
+  width: 140px;
+  background-color: rgb(225, 255, 196);
+  border-radius: 10px;
+  transition-duration: 400ms;
+}
+
+.bb:hover {
+  background-color: rgb(248, 0, 0);
+  padding: 5px;
+}
+
+.bb:active {
+  background-color: greenyellow;
+}
+
+.abb {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.div52 {
+  display: flex;
+  align-items: center;
+}
+.fot {
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.abig {
+  color: white;
+  text-decoration: none;
+}
+
+.asmall {
+  color: white;
+  text-decoration: none;
+}
+.first {
+  padding: 70px 0px 0px 70px;
+}
+.facebook {
+  color: rgb(255, 255, 255);
+  margin-right: 50px;
+}
+.youtube {
+  color: white;
+  margin-right: 50px;
+}
+.insta {
+  color: white;
+}
+.mas {
+  display: flex;
+  align-items: flex-end;
+  margin-right: 100px;
+}
+.footer-list {
+  color: white;
+  display: flex;
+  list-style: none;
+}
+.listli {
+  margin-right: 50px;
+}
+.pppp {
+  color: white;
+  margin: 50px;
+}
+.input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.imputdiv {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  padding-top: 52px;
+  padding-bottom: 52px;
+  background-color: bisque;
+}
+.bob {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+.abob {
+  text-decoration: none;
+  color: black;
+}
